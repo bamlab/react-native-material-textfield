@@ -17,6 +17,13 @@
 [![travis][travis-badge]][travis-url]
 [![codeclimate][codeclimate-badge]][codeclimate-url]
 
+## Disclaimer
+
+This repo is a fork of the original `react-native-material-textfield` repo (https://github.com/n4kz/react-native-material-textfield),
+incremented with the work of [mtiziano](https://github.com/mtiziano) on the animation smoothness.
+
+---
+
 Material texfield with consistent behaviour on iOS and Android
 
 ![example][example-url]
